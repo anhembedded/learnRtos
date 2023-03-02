@@ -1,0 +1,3 @@
+C:/Users/hoang/STM32CubeIDE/workspace_1.11.2/Test/cmakeAutoBuild/CMakeFiles/Test.elf.dir
+C:/Users/hoang/STM32CubeIDE/workspace_1.11.2/Test/cmakeAutoBuild/CMakeFiles/edit_cache.dir
+C:/Users/hoang/STM32CubeIDE/workspace_1.11.2/Test/cmakeAutoBuild/CMakeFiles/rebuild_cache.dir

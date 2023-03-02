@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\hoang\STM32CubeIDE\workspace_1.11.2\Test -B C:\Users\hoang\STM32CubeIDE\workspace_1.11.2\Test\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/hoang/STM32CubeIDE/workspace_1.11.2/Test/cmake-build-debug

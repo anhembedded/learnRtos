@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/hoang/STM32CubeIDE/workspace_1.11.2/469"
+		},
+		{
+			"path": "C:/Users/hoang/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.1/Projects/STM32469I-Discovery/Applications/Display/LCD_Paint"
+		},
+		{
+			"path": "C:/Users/hoang/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.1/Projects/STM32469I-Discovery/Examples/LCD_DSI/LCD_DSI_CmdMode_SingleBuffer"
+		},
+		{
+			"path": "../StudyF469Example"
+		},
+		{
+			"path": "C:/Users/hoang/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"crc.h": "c",
+			"cmsis_os.h": "c",
+			"image_320x240_argb8888.h": "c"
+		}
+	}
+}

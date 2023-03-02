@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "name": "Stm32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Core/Inc",
+                "${workspaceFolder}/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/Drivers/CMSIS/Include"
+            ],
+            "defines": [
+                "DEBUG",
+                "USE_HAL_DRIVER",
+                "STM32F469xx"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "intelliSenseMode": "macos-gcc-x64",
+            "compilerPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\bin\\arm-none-eabi-g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerArgs": [
+                "-mcpu=cortex-m4 ",
+                "-std=gnu11 ",
+                "-g3 ",
+                "-DDEBUG ",
+                "-DUSE_HAL_DRIVER ",
+                "-DSTM32F469xx ",
+                "-c ",
+                "-I../Core/Inc ",
+                "-I../Drivers/STM32F4xx_HAL_Driver/Inc ",
+                "-I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy ",
+                "-I../Drivers/CMSIS/Device/ST/STM32F4xx/Include ",
+                "-I../Drivers/CMSIS/Include ",
+                "-O0 ",
+                "-ffunction-sections ",
+                "-fdata-sections ",
+                "-Wall ",
+                "-fstack-usage ",
+                "--specs=nano.specs ",
+                "-mfpu=fpv4-sp-d16 ",
+                "-mfloat-abi=hard ",
+                "-mthumb"
+            ]
+        }
+    ],
+    "version": 4
+}
